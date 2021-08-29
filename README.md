@@ -1,6 +1,6 @@
 # Webpack Dashboard Issue 335 Repro
 
-Repro for [issue 335](https://github.com/FormidableLabs/webpack-dashboard/issues/335).
+Repro for `webpack-dashboard` [issue 335](https://github.com/FormidableLabs/webpack-dashboard/issues/335).
 
 Run `yarn start`, the dev server should start without problem.
 
